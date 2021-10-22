@@ -2,7 +2,7 @@
 
 tea 组件的代码片段，支持绝大部份的组件
 
-![intro](images/intro.gif)
+![intro](https://raw.githubusercontent.com/jackpoxy/tea-snippet/master/images/intro.gif)
 
 ## 使用方法  
 
