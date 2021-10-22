@@ -2,7 +2,7 @@
 	"name": "tea-snippet",
 	"displayName": "tea-snippet",
 	"description": "tea-snippet",
-	"version": "0.0.7",
+	"version": "0.0.9",
 	"publisher": "jackpo",
 	"icon": "images/icon.png",
 	"engines": {
