@@ -1,0 +1,21 @@
+{
+	"name": "tea-snippet",
+	"displayName": "tea-snippet",
+	"description": "tea-snippet",
+	"version": "0.0.7",
+	"publisher": "jackpo",
+	"icon": "images/icon.png",
+	"engines": {
+		"vscode": "^1.28.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"path": "./snippets.code-snippets"
+			}
+		]
+	}
+}
